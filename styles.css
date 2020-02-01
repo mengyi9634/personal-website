@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Indie Flower", sans-serif;
+  font-size: 1em;
+  color: #40514e;
+}
+
+h1 {
+  margin:0;
+  margin-bottom: 5px;
+  font-family: "Indie Flower", sans-serif;
+  font-size: 4em;
+  color:  #11999E;
+}
+
+h2 {
+  font-family: "Indie Flower", sans-serif;
+  color:  #11999E;
+  margin:30px auto 0 auto;
+  font-size:2em;
+  padding-bottom:10px;
+}
+
+h3 {
+  color:  #11999E;
+  margin-bottom:0;
+}
+
+a {
+  color:  #40514e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #11999E;
+}
+
+hr {
+  margin-top: 40px;
+  border: dotted #ffeadb 6px;
+  border-bottom: none;
+  width:5%;
+}
+
+.intro-p {
+  margin:0;
+  font-size: 1.5rem;
+  color:  #6b591d;
+  font-weight: normal;
+}
+
+.cat {
+  height:450px;
+  margin:0;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  margin-top:30px;
+}
+
+.coding-img {
+  width:20%;
+  float:left;
+  margin-right:30px;
+  margin-bottom: 30px;
+}
+
+.dancing-img {
+  width:20%;
+  float:right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #ffeadb;
+}
+
+.skills {
+  margin:0;
+}
+.middle-container {
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:1.5;
+
+}
+
+
+.bottom-container {
+  background-color: #ffeadb;
+  padding:30px;
+}
+
+.footer-link {
+  padding:50px;
+}
+
+.thank-you-msg {
+  width:30%;
+  margin: 20px auto 20px auto;
+}
+
+.myButton {
+	background-color:#11999e;
+	border-radius:9px;
+	border:1px solid #11999e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: "Indie Flower", sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #11999e;
+  margin-bottom:20px;
+
+}
+.myButton:hover {
+	background-color:#53aaad;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright {
+  font-size: 10px;
+  color: #11999e;
+}
